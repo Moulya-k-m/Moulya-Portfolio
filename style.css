@@ -3159,8 +3159,9 @@ section,
 }
 
 @media (max-width: 480px) {
-    .hero h2 {
-        font-size: 13px !important;
-        line-height: 1.5;
+    .hero .hero-content h2 {
+        font-size: 10px !important;
+        line-height: 1.4 !important;
+        white-space: nowrap;
     }
 }
