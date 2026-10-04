@@ -2662,8 +2662,9 @@ footer a:hover {
     }
 
     .hero h2 {
-        font-size: 18px;
-    }
+    font-size: 15px;
+    line-height: 1.5;
+}
 
     .hero-buttons {
         flex-direction: column;
