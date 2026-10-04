@@ -1,15 +1,45 @@
 # Moulya K M — Portfolio
 
-A dark, futuristic, animated portfolio built with HTML, CSS and JavaScript.
+Personal portfolio website showcasing my skills, projects, experience, achievements, and education.
 
-## Run
-Open `index.html` in VS Code with Live Server, or open it directly in a browser.
+## 🌐 Live Website
 
-## Before deployment
-Replace the placeholder `#` links in `index.html` with:
-- GitHub
-- LinkedIn
-- Project URLs
-- Resume PDF
+[View Portfolio](https://moulya-k-m.github.io/Moulya-Portfolio/)
 
-This first version recreates the visual direction of the approved mockup.
+## ✨ Highlights
+
+- AI & ML student portfolio
+- Responsive design for desktop and mobile
+- Interactive project cards and animations
+- Projects, skills, experience, achievements, and education sections
+- Resume download
+
+## 🛠️ Built With
+
+- HTML
+- CSS
+- JavaScript
+
+## 📌 Featured Projects
+
+### PackCheck AI
+AI-powered compliance checking system for packaged commodities.
+
+### CityPulse
+Web application for reporting and tracking urban problems.
+
+### CodeJourney
+Python-based personal coding progress tracker.
+
+## 📄 Resume
+
+My resume is available directly through the portfolio website.
+
+## 📬 Contact
+
+- GitHub: [Moulya-k-m](https://github.com/Moulya-k-m)
+- LinkedIn: [Moulya K M](https://www.linkedin.com/)
+
+---
+
+Made by **Moulya K M**
