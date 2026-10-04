@@ -58,9 +58,7 @@ New Horizon College of Engineering
 ## 📫 Connect With Me
 
 - [GitHub](https://github.com/Moulya-k-m)
-- [LinkedIn](https://www.linkedin.com/)
-
----
+- [LinkedIn](https://www.linkedin.com/in/moulya-k-m/)
 
 ⭐ If you find this portfolio interesting, feel free to explore the projects!
 
