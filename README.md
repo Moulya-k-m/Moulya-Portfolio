@@ -1,45 +1,67 @@
 # Moulya K M — Portfolio
 
-Personal portfolio website showcasing my skills, projects, experience, achievements, and education.
+Welcome to my personal portfolio website.
 
-## 🌐 Live Website
+This portfolio showcases my journey as an **AI & ML engineering student**, including my projects, technical skills, internship experience, achievements, and education.
 
-[View Portfolio](https://moulya-k-m.github.io/Moulya-Portfolio/)
+## 🌐 Live Portfolio
 
-## ✨ Highlights
+🔗 [Visit My Portfolio](https://moulya-k-m.github.io/Moulya-Portfolio/)
 
-- AI & ML student portfolio
-- Responsive design for desktop and mobile
-- Interactive project cards and animations
-- Projects, skills, experience, achievements, and education sections
-- Resume download
+## 👩‍💻 About Me
 
-## 🛠️ Built With
+I'm a second-year **B.E. Artificial Intelligence & Machine Learning** student with an interest in software development, AI/ML, and problem solving.
+
+I'm currently building my skills in programming, web development, data structures, and AI/ML through projects, internships, and continuous learning.
+
+## 🛠️ Technologies
 
 - HTML
 - CSS
 - JavaScript
+- Python
+- C
+- Git & GitHub
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### PackCheck AI
-AI-powered compliance checking system for packaged commodities.
+AI-powered compliance checking system for packaged commodities using document/image analysis and regulatory rules.
 
 ### CityPulse
-Web application for reporting and tracking urban problems.
+A web-based platform for reporting urban problems such as garbage, waterlogging, road damage, and street-light issues.
 
 ### CodeJourney
-Python-based personal coding progress tracker.
+A Python-based personal progress tracker for recording and monitoring coding practice.
 
-## 📄 Resume
+## 💼 Experience
 
-My resume is available directly through the portfolio website.
+**Python Development Intern — SaiKet Systems**
 
-## 📬 Contact
+Completed a remote Python development internship involving practical Python programming tasks, file handling, JSON processing, web scraping, and API-based applications.
 
-- GitHub: [Moulya-k-m](https://github.com/Moulya-k-m)
-- LinkedIn: [Moulya K M](https://www.linkedin.com/)
+## 🏆 Achievements
+
+- Smart India Hackathon 2026 participant
+- Class Representative
+- NCC certificate holder
+- NPTEL Joy of Computing using Python
+- NASA Open Science Curriculum
+- IIT Bombay Spoken Tutorial certification
+
+## 🎓 Education
+
+**B.E. — Artificial Intelligence & Machine Learning**
+
+New Horizon College of Engineering
+
+## 📫 Connect With Me
+
+- [GitHub](https://github.com/Moulya-k-m)
+- [LinkedIn](https://www.linkedin.com/)
 
 ---
 
-Made by **Moulya K M**
+⭐ If you find this portfolio interesting, feel free to explore the projects!
+
+**© 2026 Moulya K M**
