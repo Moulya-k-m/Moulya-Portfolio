@@ -3157,3 +3157,10 @@ section,
         display: none !important;
     }
 }
+
+@media (max-width: 480px) {
+    .hero h2 {
+        font-size: 13px !important;
+        line-height: 1.5;
+    }
+}
