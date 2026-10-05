@@ -1701,6 +1701,7 @@ button {
 }
 
 .project-arrow {
+    margin-top: 20px;
     display: inline-block;
     color: inherit;
     text-decoration: none;
