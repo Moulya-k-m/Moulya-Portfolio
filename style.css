@@ -3152,3 +3152,9 @@ section,
         white-space: nowrap;
     }
 }
+
+@media (max-width: 768px) {
+    .project-arrow {
+        margin-top: 35px;
+    }
+}
